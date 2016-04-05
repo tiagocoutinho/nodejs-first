@@ -1,0 +1,24 @@
+{
+  "name": "first-project",
+  "version": "0.0.1-alpha",
+  "description": "my first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "coutinho",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tiagocoutinho/nodejs-first.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tiagocoutinho/nodejs-first/issues"
+  },
+  "homepage": "https://github.com/tiagocoutinho/nodejs-first#readme"
+}
